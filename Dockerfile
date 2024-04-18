@@ -1,5 +1,5 @@
 # STAGE 1: fist stage is Build stage 
-FROM node:14 
+FROM node:21
 
 # My working directory inside the container
 WORKDIR /usr/src/app
